@@ -83,3 +83,8 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+./homework07/dart_tool/
